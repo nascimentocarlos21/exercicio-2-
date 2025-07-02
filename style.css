@@ -4,4 +4,10 @@ body {
     text-align: justify;
     font-size: 25px;
 }
-    
+
+h1 {
+    background-color: blue;
+    color:white;
+    text-align: center;
+    font-size: 38px;
+}
